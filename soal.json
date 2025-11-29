@@ -1,0 +1,151 @@
+{
+  "8-1": {
+    "kategori": "Musik Tradisional",
+    "soal": "Angklung adalah alat musik yang terbuat dari bambu, berasal dari…",
+    "opsi": ["Jawa Barat", "Jawa Tengah", "Bali", "Aceh"],
+    "benar": 0
+  },
+  "8-2": {
+    "kategori": "Musik Tradisional",
+    "soal": "Sasando adalah alat musik petik unik yang berasal dari pulau…",
+    "opsi": ["Lombok", "Rote (NTT)", "Bali", "Sulawesi"],
+    "benar": 1
+  },
+  "8-3": {
+    "kategori": "Musik Tradisional",
+    "soal": "Tifa adalah alat musik pukul yang berasal dari daerah…",
+    "opsi": ["Jawa", "Papua/Maluku", "Bali", "Sumatera"],
+    "benar": 1
+  },
+  "8-4": {
+    "kategori": "Musik Tradisional",
+    "soal": "Kolintang adalah alat musik dari…",
+    "opsi": ["Jawa Timur", "Sulawesi Utara (Minahasa)", "NTB", "Riau"],
+    "benar": 1
+  },
+  "8-5": {
+    "kategori": "Musik Tradisional",
+    "soal": "Gamelan adalah ansambel musik yang didominasi alat musik jenis…",
+    "opsi": ["Tiup", "Gesek", "Perkusi/Pukul", "Petik"],
+    "benar": 2
+  },
+
+  "9-1": {
+    "kategori": "Pakaian Adat",
+    "soal": "Kain Ulos adalah kain tenun khas dari suku…",
+    "opsi": ["Dayak", "Minang", "Batak", "Bugis"],
+    "benar": 2
+  },
+  "9-2": {
+    "kategori": "Pakaian Adat",
+    "soal": "Baju Bodo adalah pakaian adat perempuan dari suku…",
+    "opsi": ["Bugis/Makassar", "Betawi", "Asmat", "Sunda"],
+    "benar": 0
+  },
+  "9-3": {
+    "kategori": "Pakaian Adat",
+    "soal": "Koteka digunakan oleh masyarakat di…",
+    "opsi": ["Papua", "Aceh", "Bali", "Lampung"],
+    "benar": 0
+  },
+  "9-4": {
+    "kategori": "Pakaian Adat",
+    "soal": "Kebaya identik dengan wanita dari wilayah…",
+    "opsi": ["Bali", "Jawa/Indonesia", "Sumatera", "NTT"],
+    "benar": 1
+  },
+
+  "10-1": {
+    "kategori": "Rumah Adat",
+    "soal": "Rumah Gadang dengan atap gonjong runcing berasal dari…",
+    "opsi": ["Sumatera Barat", "Aceh", "Papua", "Jawa Barat"],
+    "benar": 0
+  },
+  "10-2": {
+    "kategori": "Rumah Adat",
+    "soal": "Rumah Tongkonan berasal dari suku…",
+    "opsi": ["Madura", "Toraja", "Sasak", "Baduy"],
+    "benar": 1
+  },
+  "10-3": {
+    "kategori": "Rumah Adat",
+    "soal": "Rumah Honai adalah rumah adat dari…",
+    "opsi": ["Bali", "Papua", "Jambi", "Sulawesi"],
+    "benar": 1
+  },
+  "10-4": {
+    "kategori": "Rumah Adat",
+    "soal": "Rumah Joglo banyak ditemukan di provinsi…",
+    "opsi": ["Jawa Tengah/DIY/Jatim", "Kalimantan Timur", "Bali", "NTB"],
+    "benar": 0
+  },
+
+  "11-1": {
+    "kategori": "Kuliner Tradisional",
+    "soal": "Rendang berasal dari daerah…",
+    "opsi": ["Padang/Minangkabau", "NTB", "Aceh", "Banten"],
+    "benar": 0
+  },
+  "11-2": {
+    "kategori": "Kuliner Tradisional",
+    "soal": "Gudeg adalah makanan khas dari…",
+    "opsi": ["Semarang", "Bandung", "Yogyakarta", "Medan"],
+    "benar": 2
+  },
+  "11-3": {
+    "kategori": "Kuliner Tradisional",
+    "soal": "Papeda adalah makanan pokok dari…",
+    "opsi": ["Papua/Maluku", "Jawa Tengah", "Bali", "Riau"],
+    "benar": 0
+  },
+  "11-4": {
+    "kategori": "Kuliner Tradisional",
+    "soal": "Coto Makassar biasanya disajikan dengan…",
+    "opsi": ["Lontong", "Ketupat Buras", "Nasi Liwet", "Papeda"],
+    "benar": 1
+  },
+
+  "12-1": {
+    "kategori": "Cerita Rakyat",
+    "soal": "Malin Kundang berasal dari…",
+    "opsi": ["Sumatera Barat", "Jawa Barat", "Kalimantan", "Papua"],
+    "benar": 0
+  },
+  "12-2": {
+    "kategori": "Cerita Rakyat",
+    "soal": "Gunung yang berkaitan dengan cerita Sangkuriang adalah…",
+    "opsi": ["Merapi", "Tangkuban Perahu", "Semeru", "Bromo"],
+    "benar": 1
+  },
+  "12-3": {
+    "kategori": "Cerita Rakyat",
+    "soal": "Timun Mas berasal dari…",
+    "opsi": ["Sumatera Selatan", "Jawa Tengah", "NTT", "Bangka"],
+    "benar": 1
+  },
+  "12-4": {
+    "kategori": "Cerita Rakyat",
+    "soal": "I La Galigo berasal dari…",
+    "opsi": ["Sulawesi Selatan", "Aceh", "Bali", "Maluku"],
+    "benar": 0
+  },
+
+  "13-1": {
+    "kategori": "Permainan Tradisional",
+    "soal": "Congklak dimainkan menggunakan biji…",
+    "opsi": ["Kelereng", "Kerang/tumbuhan", "Batu kecil", "Kayu"],
+    "benar": 1
+  },
+  "13-2": {
+    "kategori": "Permainan Tradisional",
+    "soal": "Egrang dimainkan menggunakan dua batang…",
+    "opsi": ["Kayu", "Bambu", "Rotan", "Plastik"],
+    "benar": 1
+  },
+  "13-3": {
+    "kategori": "Permainan Tradisional",
+    "soal": "Gobak Sodor bertujuan untuk menghalangi lawan agar tidak…",
+    "opsi": ["Melompat", "Melempar bola", "Melewati garis", "Membawa bendera"],
+    "benar": 2
+  }
+}
