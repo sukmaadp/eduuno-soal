@@ -1,311 +1,449 @@
 {
-  "8-1": {
+  "1": {
+    "kategori": "Kerajaan Hindu-Buddha",
+    "soal": "Kerajaan Hindu-Buddha tertua di Indonesia adalah…",
+    "opsi": ["Tarumanegara", "Kutai", "Sriwijaya", "Majapahit"],
+    "benar": 1
+  },
+  "2": {
+    "kategori": "Kerajaan Hindu-Buddha",
+    "soal": "Ibu kota Kerajaan Sriwijaya terletak di daerah yang sekarang dikenal sebagai…",
+    "opsi": ["Jambi", "Palembang", "Lampung", "Riau"],
+    "benar": 1
+  },
+  "3": {
+    "kategori": "Kerajaan Hindu-Buddha",
+    "soal": "Raja Majapahit yang membawa kerajaan menuju puncak kejayaan adalah…",
+    "opsi": ["Raden Wijaya", "Hayam Wuruk", "Kertanegara", "Jayanegara"],
+    "benar": 1
+  },
+  "4": {
+    "kategori": "Kerajaan Hindu-Buddha",
+    "soal": "Tokoh Patih Majapahit yang mengucapkan Sumpah Palapa adalah…",
+    "opsi": ["Gajah Mada", "Lembu Sora", "Arya Wiraraja", "Mpu Nala"],
+    "benar": 0
+  },
+  "5": {
+    "kategori": "Kerajaan Hindu-Buddha",
+    "soal": "Kerajaan Tarumanegara yang terkenal dengan prasasti tapak kakinya terletak di…",
+    "opsi": ["Jawa Timur", "Jawa Tengah", "Jawa Barat", "Banten"],
+    "benar": 2
+  },
+  "6": {
+    "kategori": "Kerajaan Hindu-Buddha",
+    "soal": "Kerajaan Mataram Kuno meninggalkan warisan candi bercorak agama…",
+    "opsi": ["Hindu & Buddha", "Islam", "Konghucu", "Kristen"],
+    "benar": 0
+  },
+  "7": {
+    "kategori": "Kerajaan Hindu-Buddha",
+    "soal": "Kerajaan Ternate dan Tidore terkenal di dunia internasional karena perdagangan…",
+    "opsi": ["Emas", "Kain Sutra", "Rempah-rempah", "Keramik"],
+    "benar": 2
+  },
+  "8": {
+    "kategori": "Kerajaan Hindu-Buddha",
+    "soal": "Candi Borobudur dibangun pada masa pemerintahan Dinasti…",
+    "opsi": ["Sanjaya", "Syailendra", "Isyana", "Warmadewa"],
+    "benar": 1
+  },
+  "9": {
+    "kategori": "Kolonial & Perlawanan",
+    "soal": "VOC didirikan oleh bangsa Belanda pada tahun…",
+    "opsi": ["1596", "1602", "1799", "1800"],
+    "benar": 1
+  },
+  "10": {
+    "kategori": "Kolonial & Perlawanan",
+    "soal": "Perang Diponegoro (Perang Jawa) terjadi pada periode tahun…",
+    "opsi": ["1825–1830", "1800–1805", "1908–1912", "1945–1949"],
+    "benar": 0
+  },
+  "11": {
+    "kategori": "Kolonial & Perlawanan",
+    "soal": "Tokoh pemimpin kaum Padri di Sumatera Barat adalah…",
+    "opsi": ["Sisingamangaraja XII", "Teuku Umar", "Tuanku Imam Bonjol", "Pangeran Diponegoro"],
+    "benar": 2
+  },
+  "12": {
+    "kategori": "Kolonial & Perlawanan",
+    "soal": "Cut Nyak Dien adalah pahlawan wanita yang berjuang di daerah…",
+    "opsi": ["Jawa Barat", "Sumatera Barat", "Aceh", "Maluku"],
+    "benar": 2
+  },
+  "13": {
+    "kategori": "Kolonial & Perlawanan",
+    "soal": "Sistem Tanam Paksa (Cultuurstelsel) diperkenalkan oleh Gubernur Jenderal…",
+    "opsi": ["Daendels", "Raffles", "Van den Bosch", "Jan Pieterszoon Coen"],
+    "benar": 2
+  },
+  "14": {
+    "kategori": "Kolonial & Perlawanan",
+    "soal": "Perlawanan Kapitan Pattimura terjadi di wilayah…",
+    "opsi": ["Sulawesi", "Maluku", "Papua", "Nusa Tenggara"],
+    "benar": 1
+  },
+  "15": {
+    "kategori": "Kolonial & Perlawanan",
+    "soal": "Sultan Hasanuddin dikenal sebagai raja dari Kerajaan…",
+    "opsi": ["Gowa-Tallo", "Bone", "Banjar", "Demak"],
+    "benar": 0
+  },
+  "16": {
+    "kategori": "Kolonial & Perlawanan",
+    "soal": "Pangeran Antasari memimpin perlawanan rakyat terhadap Belanda di daerah…",
+    "opsi": ["Kalimantan Barat", "Kalimantan Selatan", "Kalimantan Timur", "Sulawesi Selatan"],
+    "benar": 1
+  },
+  "17": {
+    "kategori": "Pergerakan Nasional",
+    "soal": "Organisasi pergerakan nasional modern pertama di Indonesia adalah…",
+    "opsi": ["Sarekat Islam", "Indische Partij", "Budi Utomo", "Perhimpunan Indonesia"],
+    "benar": 2
+  },
+  "18": {
+    "kategori": "Pergerakan Nasional",
+    "soal": "Budi Utomo didirikan pada tahun…",
+    "opsi": ["1905", "1908", "1928", "1945"],
+    "benar": 1
+  },
+  "19": {
+    "kategori": "Pergerakan Nasional",
+    "soal": "Sarekat Islam (SI) awalnya didirikan sebagai organisasi dagang oleh…",
+    "opsi": ["H.O.S Cokroaminoto", "H. Samanhudi", "K.H. Ahmad Dahlan", "Tirto Adhi Soerjo"],
+    "benar": 1
+  },
+  "20": {
+    "kategori": "Pergerakan Nasional",
+    "soal": "Tokoh yang mendirikan Indische Partij bersama Douwes Dekker dan Cipto Mangunkusumo adalah…",
+    "opsi": ["Ki Hajar Dewantara", "Dr. Sutomo", "Ir. Soekarno", "Moh. Hatta"],
+    "benar": 0
+  },
+  "21": {
+    "kategori": "Pergerakan Nasional",
+    "soal": "Sumpah Pemuda diikrarkan pada tanggal…",
+    "opsi": ["1 Juni 1945", "17 Agustus 1945", "20 Mei 1908", "28 Oktober 1928"],
+    "benar": 3
+  },
+  "22": {
+    "kategori": "Pergerakan Nasional",
+    "soal": "Salah satu isi Sumpah Pemuda adalah menjunjung tinggi bahasa persatuan, yaitu…",
+    "opsi": ["Bahasa Melayu", "Bahasa Jawa", "Bahasa Indonesia", "Bahasa Belanda"],
+    "benar": 2
+  },
+  "23": {
+    "kategori": "Pergerakan Nasional",
+    "soal": "Surat kabar “Medan Prijaji” yang menjadi corong pergerakan didirikan oleh…",
+    "opsi": ["Douwes Dekker", "Tirto Adhi Soerjo", "Cipto Mangunkusumo", "Abdul Muis"],
+    "benar": 1
+  },
+  "24": {
+    "kategori": "Pergerakan Nasional",
+    "soal": "Organisasi Taman Siswa didirikan dengan tujuan fokus pada bidang…",
+    "opsi": ["Politik", "Ekonomi", "Pendidikan", "Militer"],
+    "benar": 2
+  },
+  "25": {
     "kategori": "Musik Tradisional",
     "soal": "Angklung adalah alat musik yang terbuat dari bambu, berasal dari…",
     "opsi": ["Jawa Barat", "Jawa Tengah", "Bali", "Aceh"],
     "benar": 0
   },
-  "8-2": {
+  "26": {
     "kategori": "Musik Tradisional",
     "soal": "Sasando adalah alat musik petik unik yang berasal dari pulau…",
     "opsi": ["Lombok", "Rote (NTT)", "Bali", "Sulawesi"],
     "benar": 1
   },
-  "8-3": {
+  "27": {
     "kategori": "Musik Tradisional",
     "soal": "Tifa adalah alat musik pukul yang berasal dari daerah…",
     "opsi": ["Jawa", "Papua/Maluku", "Bali", "Sumatera"],
     "benar": 1
   },
-  "8-4": {
+  "28": {
     "kategori": "Musik Tradisional",
     "soal": "Kolintang adalah alat musik dari…",
     "opsi": ["Jawa Timur", "Sulawesi Utara (Minahasa)", "NTB", "Riau"],
     "benar": 1
   },
-  "8-5": {
+  "29": {
     "kategori": "Musik Tradisional",
     "soal": "Gamelan adalah ansambel musik yang didominasi alat musik jenis…",
     "opsi": ["Tiup", "Gesek", "Perkusi/Pukul", "Petik"],
     "benar": 2
   },
-
-  "9-1": {
+  "30": {
     "kategori": "Pakaian Adat",
     "soal": "Kain Ulos adalah kain tenun khas dari suku…",
     "opsi": ["Dayak", "Minang", "Batak", "Bugis"],
     "benar": 2
   },
-  "9-2": {
+  "31": {
     "kategori": "Pakaian Adat",
     "soal": "Baju Bodo adalah pakaian adat perempuan dari suku…",
     "opsi": ["Bugis/Makassar", "Betawi", "Asmat", "Sunda"],
     "benar": 0
   },
-  "9-3": {
+  "32": {
     "kategori": "Pakaian Adat",
     "soal": "Koteka digunakan oleh masyarakat di…",
     "opsi": ["Papua", "Aceh", "Bali", "Lampung"],
     "benar": 0
   },
-  "9-4": {
+  "33": {
     "kategori": "Pakaian Adat",
     "soal": "Kebaya identik dengan wanita dari wilayah…",
     "opsi": ["Bali", "Jawa/Indonesia", "Sumatera", "NTT"],
     "benar": 1
   },
-
-  "10-1": {
+  "34": {
     "kategori": "Rumah Adat",
     "soal": "Rumah Gadang dengan atap gonjong runcing berasal dari…",
     "opsi": ["Sumatera Barat", "Aceh", "Papua", "Jawa Barat"],
     "benar": 0
   },
-  "10-2": {
+  "35": {
     "kategori": "Rumah Adat",
     "soal": "Rumah Tongkonan berasal dari suku…",
     "opsi": ["Madura", "Toraja", "Sasak", "Baduy"],
     "benar": 1
   },
-  "10-3": {
+  "36": {
     "kategori": "Rumah Adat",
     "soal": "Rumah Honai adalah rumah adat dari…",
     "opsi": ["Bali", "Papua", "Jambi", "Sulawesi"],
     "benar": 1
   },
-  "10-4": {
+  "37": {
     "kategori": "Rumah Adat",
     "soal": "Rumah Joglo banyak ditemukan di provinsi…",
     "opsi": ["Jawa Tengah/DIY/Jatim", "Kalimantan Timur", "Bali", "NTB"],
     "benar": 0
   },
-
-  "11-1": {
+  "38": {
     "kategori": "Kuliner Tradisional",
     "soal": "Rendang berasal dari daerah…",
     "opsi": ["Padang/Minangkabau", "NTB", "Aceh", "Banten"],
     "benar": 0
   },
-  "11-2": {
+  "39": {
     "kategori": "Kuliner Tradisional",
     "soal": "Gudeg adalah makanan khas dari…",
     "opsi": ["Semarang", "Bandung", "Yogyakarta", "Medan"],
     "benar": 2
   },
-  "11-3": {
+  "40": {
     "kategori": "Kuliner Tradisional",
     "soal": "Papeda adalah makanan pokok dari…",
     "opsi": ["Papua/Maluku", "Jawa Tengah", "Bali", "Riau"],
     "benar": 0
   },
-  "11-4": {
+  "41": {
     "kategori": "Kuliner Tradisional",
     "soal": "Coto Makassar biasanya disajikan dengan…",
     "opsi": ["Lontong", "Ketupat Buras", "Nasi Liwet", "Papeda"],
     "benar": 1
   },
-
-  "12-1": {
+  "42": {
     "kategori": "Cerita Rakyat",
     "soal": "Malin Kundang berasal dari…",
     "opsi": ["Sumatera Barat", "Jawa Barat", "Kalimantan", "Papua"],
     "benar": 0
   },
-  "12-2": {
+  "43": {
     "kategori": "Cerita Rakyat",
     "soal": "Gunung yang berkaitan dengan cerita Sangkuriang adalah…",
     "opsi": ["Merapi", "Tangkuban Perahu", "Semeru", "Bromo"],
     "benar": 1
   },
-  "12-3": {
+  "44": {
     "kategori": "Cerita Rakyat",
     "soal": "Timun Mas berasal dari…",
     "opsi": ["Sumatera Selatan", "Jawa Tengah", "NTT", "Bangka"],
     "benar": 1
   },
-  "12-4": {
+  "45": {
     "kategori": "Cerita Rakyat",
     "soal": "I La Galigo berasal dari…",
     "opsi": ["Sulawesi Selatan", "Aceh", "Bali", "Maluku"],
     "benar": 0
   },
-
-  "13-1": {
+  "46": {
     "kategori": "Permainan Tradisional",
     "soal": "Congklak dimainkan menggunakan biji…",
     "opsi": ["Kelereng", "Kerang/tumbuhan", "Batu kecil", "Kayu"],
     "benar": 1
   },
-  "13-2": {
+  "47": {
     "kategori": "Permainan Tradisional",
     "soal": "Egrang dimainkan menggunakan dua batang…",
     "opsi": ["Kayu", "Bambu", "Rotan", "Plastik"],
     "benar": 1
   },
-  "13-3": {
+  "48": {
     "kategori": "Permainan Tradisional",
     "soal": "Gobak Sodor bertujuan untuk menghalangi lawan agar tidak…",
     "opsi": ["Melompat", "Melempar bola", "Melewati garis", "Membawa bendera"],
     "benar": 2
-  }
-,
-  "14-1": {
+  },
+  "49": {
     "kategori": "Sejarah Kemerdekaan",
     "soal": "Naskah Proklamasi diketik oleh…",
     "opsi": ["Sayuti Melik", "Moh. Hatta", "Ir. Soekarno", "Bung Karno"],
     "benar": 0
   },
-  "14-2": {
+  "50": {
     "kategori": "Sejarah Kemerdekaan",
     "soal": "Proklamasi Kemerdekaan dibacakan di jalan…",
     "opsi": ["Pegangsaan Timur No. 56", "Merdeka Barat", "Jakarta Pusat", "Menteng"],
     "benar": 0
   },
-  "14-3": {
+  "51": {
     "kategori": "Sejarah Kemerdekaan",
     "soal": "Pembacaan teks Proklamasi Kemerdekaan Indonesia dilakukan pada pukul…",
     "opsi": ["10.00 WIB", "09.00 WIB", "11.00 WIB", "08.00 WIB"],
     "benar": 0
   },
-  "14-4": {
+  "52": {
     "kategori": "Sejarah Kemerdekaan",
     "soal": "Peristiwa penculikan Soekarno-Hatta oleh golongan muda disebut peristiwa…",
     "opsi": ["Rengasdengklok", "Puputan", "Pertempuran Surabaya", "Peristiwa Bandung Lautan Api"],
     "benar": 0
   },
-  "14-5": {
+  "53": {
     "kategori": "Sejarah Kemerdekaan",
     "soal": "Tokoh yang membacakan teks proklamasi didampingi Moh. Hatta adalah…",
     "opsi": ["Ir. Soekarno", "Sayuti Melik", "Bung Tomo", "Ki Hajar Dewantara"],
     "benar": 0
   },
-  "14-6": {
+  "54": {
     "kategori": "Sejarah Kemerdekaan",
     "soal": "Pertempuran 10 November di Surabaya kini diperingati sebagai hari…",
     "opsi": ["Pahlawan", "Kemerdekaan", "Bung Tomo", "TNI"],
     "benar": 0
   },
-  "14-7": {
+  "55": {
     "kategori": "Sejarah Kemerdekaan",
     "soal": "Tokoh yang terkenal dengan pekik “Merdeka atau Mati” di Surabaya adalah…",
     "opsi": ["Bung Tomo", "Ir. Soekarno", "Moh. Hatta", "Sayuti Melik"],
     "benar": 0
   },
-  "14-8": {
+  "56": {
     "kategori": "Sejarah Kemerdekaan",
     "soal": "Tokoh istri Fatmawati dikenal jasanya dalam…",
     "opsi": ["Menjahit Bendera Merah Putih", "Menyusun Proklamasi", "Mengajar di sekolah", "Berjuang di medan perang"],
     "benar": 0
   },
-  "14-9": {
+  "57": {
     "kategori": "Tokoh & Pahlawan",
     "soal": "R.A. Kartini dikenal sebagai pelopor kebangkitan perempuan pribumi karena surat-suratnya yang dibukukan berjudul…",
     "opsi": ["Habis Gelap Terbitlah Terang", "Kartini", "Perempuan Nusantara", "Surat Kartini"],
     "benar": 0
   },
-  "14-10": {
+  "58": {
     "kategori": "Tokoh & Pahlawan",
     "soal": "Julukan “Ayam Jantan dari Timur” diberikan Belanda kepada…",
     "opsi": ["Sultan Hasanuddin", "Sultan Agung", "Kapten Pattimura", "I Gusti Ngurah Rai"],
     "benar": 0
   },
-  "14-11": {
+  "59": {
     "kategori": "Tokoh & Pahlawan",
     "soal": "Nama asli Kapten Pattimura adalah…",
     "opsi": ["Thomas Matulessy", "Raden Mas Suwardi", "Bung Tomo", "Ir. Soekarno"],
     "benar": 0
   },
-  "14-12": {
+  "60": {
     "kategori": "Tokoh & Pahlawan",
     "soal": "Pahlawan wanita dari Maluku yang mendampingi Pattimura adalah…",
     "opsi": ["Martha Christina Tiahahu", "R.A. Kartini", "Fatmawati", "Cut Nyak Dhien"],
     "benar": 0
   },
-  "14-13": {
+  "61": {
     "kategori": "Tokoh & Pahlawan",
     "soal": "Ki Hajar Dewantara lahir dengan nama asli…",
     "opsi": ["Raden Mas Suwardi Suryaningrat", "Raden Mas Kartini", "Raden Mas Agung", "Raden Mas Pattimura"],
     "benar": 0
   },
-  "14-14": {
+  "62": {
     "kategori": "Tokoh & Pahlawan",
     "soal": "Raja Kerajaan Mataram Islam yang menyerang VOC di Batavia adalah…",
     "opsi": ["Sultan Agung", "Sultan Hasanuddin", "Pattimura", "I Gusti Ngurah Rai"],
     "benar": 0
   },
-  "14-15": {
+  "63": {
     "kategori": "Tokoh & Pahlawan",
     "soal": "I Gusti Ngurah Rai memimpin perang habis-habisan di Bali yang dikenal dengan istilah…",
     "opsi": ["Puputan", "Perang Rakyat", "Perang Surabaya", "Pertempuran Bali"],
     "benar": 0
   },
-  "14-16": {
+  "64": {
     "kategori": "Tradisi & Budaya",
     "soal": "Upacara pembakaran jenazah di Bali disebut…",
     "opsi": ["Ngaben", "Kasada", "Sekaten", "Rambu Solo'"],
     "benar": 0
   },
-  "14-17": {
+  "65": {
     "kategori": "Tradisi & Budaya",
     "soal": "Tradisi Tabuik (membuang keranda ke laut) berasal dari provinsi…",
     "opsi": ["Sumatera Barat", "Aceh", "Jawa Barat", "Bali"],
     "benar": 0
   },
-  "14-18": {
+  "66": {
     "kategori": "Tradisi & Budaya",
     "soal": "Upacara Kasada dengan melempar sesaji ke kawah dilakukan oleh masyarakat suku…",
     "opsi": ["Tengger", "Toraja", "Batak", "Minangkabau"],
     "benar": 0
   },
-  "14-19": {
+  "67": {
     "kategori": "Tradisi & Budaya",
     "soal": "Upacara Sekaten diselenggarakan untuk memperingati Maulid Nabi di kota…",
     "opsi": ["Yogyakarta/Surakarta", "Jakarta", "Bali", "Aceh"],
     "benar": 0
   },
-  "14-20": {
+  "68": {
     "kategori": "Tradisi & Budaya",
     "soal": "Tradisi Lompat Batu (Hombo Batu) berasal dari daerah…",
     "opsi": ["Nias", "Toraja", "Sumatera Barat", "Papua"],
     "benar": 0
   },
-  "14-21": {
+  "69": {
     "kategori": "Tradisi & Budaya",
     "soal": "Upacara pemakaman Rambu Solo’ yang megah adalah tradisi dari suku…",
     "opsi": ["Toraja", "Batak", "Bali", "Minangkabau"],
     "benar": 0
   },
-  "14-22": {
+  "70": {
     "kategori": "Tari & Seni Pertunjukan",
     "soal": "Tari Saman yang ditarikan secara massal berasal dari provinsi…",
     "opsi": ["Aceh", "Bali", "Jawa Barat", "Jawa Tengah"],
     "benar": 0
   },
-  "14-23": {
+  "71": {
     "kategori": "Tari & Seni Pertunjukan",
     "soal": "Tari Kecak yang tidak menggunakan alat musik berasal dari pulau…",
     "opsi": ["Bali", "Jawa", "Sumatera", "Sulawesi"],
     "benar": 0
   },
-  "14-24": {
+  "72": {
     "kategori": "Tari & Seni Pertunjukan",
     "soal": "Tari Jaipong adalah tarian pergaulan yang berasal dari…",
     "opsi": ["Jawa Barat", "Bali", "Aceh", "Jawa Tengah"],
     "benar": 0
   },
-  "14-25": {
+  "73": {
     "kategori": "Tari & Seni Pertunjukan",
     "soal": "Kesenian Reog yang identik dengan topeng dadak merak berasal dari…",
     "opsi": ["Ponorogo", "Malang", "Banyuwangi", "Solo"],
     "benar": 0
   },
-  "14-26": {
+  "74": {
     "kategori": "Tari & Seni Pertunjukan",
     "soal": "Seni pertunjukan teater tradisional dari Betawi (Jakarta) adalah…",
     "opsi": ["Lenong", "Wayang Kulit", "Ketoprak", "Reog"],
     "benar": 0
   },
-  "14-27": {
+  "75": {
     "kategori": "Tari & Seni Pertunjukan",
     "soal": "Wayang kulit diakui UNESCO sebagai warisan budaya, umumnya mengangkat kisah dari kitab…",
     "opsi": ["Mahabharata & Ramayana", "I La Galigo", "Serat Centhini", "Babad Tanah Jawi"],
