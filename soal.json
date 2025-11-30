@@ -148,4 +148,167 @@
     "opsi": ["Melompat", "Melempar bola", "Melewati garis", "Membawa bendera"],
     "benar": 2
   }
+,
+  "14-1": {
+    "kategori": "Sejarah Kemerdekaan",
+    "soal": "Naskah Proklamasi diketik oleh…",
+    "opsi": ["Sayuti Melik", "Moh. Hatta", "Ir. Soekarno", "Bung Karno"],
+    "benar": 0
+  },
+  "14-2": {
+    "kategori": "Sejarah Kemerdekaan",
+    "soal": "Proklamasi Kemerdekaan dibacakan di jalan…",
+    "opsi": ["Pegangsaan Timur No. 56", "Merdeka Barat", "Jakarta Pusat", "Menteng"],
+    "benar": 0
+  },
+  "14-3": {
+    "kategori": "Sejarah Kemerdekaan",
+    "soal": "Pembacaan teks Proklamasi Kemerdekaan Indonesia dilakukan pada pukul…",
+    "opsi": ["10.00 WIB", "09.00 WIB", "11.00 WIB", "08.00 WIB"],
+    "benar": 0
+  },
+  "14-4": {
+    "kategori": "Sejarah Kemerdekaan",
+    "soal": "Peristiwa penculikan Soekarno-Hatta oleh golongan muda disebut peristiwa…",
+    "opsi": ["Rengasdengklok", "Puputan", "Pertempuran Surabaya", "Peristiwa Bandung Lautan Api"],
+    "benar": 0
+  },
+  "14-5": {
+    "kategori": "Sejarah Kemerdekaan",
+    "soal": "Tokoh yang membacakan teks proklamasi didampingi Moh. Hatta adalah…",
+    "opsi": ["Ir. Soekarno", "Sayuti Melik", "Bung Tomo", "Ki Hajar Dewantara"],
+    "benar": 0
+  },
+  "14-6": {
+    "kategori": "Sejarah Kemerdekaan",
+    "soal": "Pertempuran 10 November di Surabaya kini diperingati sebagai hari…",
+    "opsi": ["Pahlawan", "Kemerdekaan", "Bung Tomo", "TNI"],
+    "benar": 0
+  },
+  "14-7": {
+    "kategori": "Sejarah Kemerdekaan",
+    "soal": "Tokoh yang terkenal dengan pekik “Merdeka atau Mati” di Surabaya adalah…",
+    "opsi": ["Bung Tomo", "Ir. Soekarno", "Moh. Hatta", "Sayuti Melik"],
+    "benar": 0
+  },
+  "14-8": {
+    "kategori": "Sejarah Kemerdekaan",
+    "soal": "Tokoh istri Fatmawati dikenal jasanya dalam…",
+    "opsi": ["Menjahit Bendera Merah Putih", "Menyusun Proklamasi", "Mengajar di sekolah", "Berjuang di medan perang"],
+    "benar": 0
+  },
+  "14-9": {
+    "kategori": "Tokoh & Pahlawan",
+    "soal": "R.A. Kartini dikenal sebagai pelopor kebangkitan perempuan pribumi karena surat-suratnya yang dibukukan berjudul…",
+    "opsi": ["Habis Gelap Terbitlah Terang", "Kartini", "Perempuan Nusantara", "Surat Kartini"],
+    "benar": 0
+  },
+  "14-10": {
+    "kategori": "Tokoh & Pahlawan",
+    "soal": "Julukan “Ayam Jantan dari Timur” diberikan Belanda kepada…",
+    "opsi": ["Sultan Hasanuddin", "Sultan Agung", "Kapten Pattimura", "I Gusti Ngurah Rai"],
+    "benar": 0
+  },
+  "14-11": {
+    "kategori": "Tokoh & Pahlawan",
+    "soal": "Nama asli Kapten Pattimura adalah…",
+    "opsi": ["Thomas Matulessy", "Raden Mas Suwardi", "Bung Tomo", "Ir. Soekarno"],
+    "benar": 0
+  },
+  "14-12": {
+    "kategori": "Tokoh & Pahlawan",
+    "soal": "Pahlawan wanita dari Maluku yang mendampingi Pattimura adalah…",
+    "opsi": ["Martha Christina Tiahahu", "R.A. Kartini", "Fatmawati", "Cut Nyak Dhien"],
+    "benar": 0
+  },
+  "14-13": {
+    "kategori": "Tokoh & Pahlawan",
+    "soal": "Ki Hajar Dewantara lahir dengan nama asli…",
+    "opsi": ["Raden Mas Suwardi Suryaningrat", "Raden Mas Kartini", "Raden Mas Agung", "Raden Mas Pattimura"],
+    "benar": 0
+  },
+  "14-14": {
+    "kategori": "Tokoh & Pahlawan",
+    "soal": "Raja Kerajaan Mataram Islam yang menyerang VOC di Batavia adalah…",
+    "opsi": ["Sultan Agung", "Sultan Hasanuddin", "Pattimura", "I Gusti Ngurah Rai"],
+    "benar": 0
+  },
+  "14-15": {
+    "kategori": "Tokoh & Pahlawan",
+    "soal": "I Gusti Ngurah Rai memimpin perang habis-habisan di Bali yang dikenal dengan istilah…",
+    "opsi": ["Puputan", "Perang Rakyat", "Perang Surabaya", "Pertempuran Bali"],
+    "benar": 0
+  },
+  "14-16": {
+    "kategori": "Tradisi & Budaya",
+    "soal": "Upacara pembakaran jenazah di Bali disebut…",
+    "opsi": ["Ngaben", "Kasada", "Sekaten", "Rambu Solo'"],
+    "benar": 0
+  },
+  "14-17": {
+    "kategori": "Tradisi & Budaya",
+    "soal": "Tradisi Tabuik (membuang keranda ke laut) berasal dari provinsi…",
+    "opsi": ["Sumatera Barat", "Aceh", "Jawa Barat", "Bali"],
+    "benar": 0
+  },
+  "14-18": {
+    "kategori": "Tradisi & Budaya",
+    "soal": "Upacara Kasada dengan melempar sesaji ke kawah dilakukan oleh masyarakat suku…",
+    "opsi": ["Tengger", "Toraja", "Batak", "Minangkabau"],
+    "benar": 0
+  },
+  "14-19": {
+    "kategori": "Tradisi & Budaya",
+    "soal": "Upacara Sekaten diselenggarakan untuk memperingati Maulid Nabi di kota…",
+    "opsi": ["Yogyakarta/Surakarta", "Jakarta", "Bali", "Aceh"],
+    "benar": 0
+  },
+  "14-20": {
+    "kategori": "Tradisi & Budaya",
+    "soal": "Tradisi Lompat Batu (Hombo Batu) berasal dari daerah…",
+    "opsi": ["Nias", "Toraja", "Sumatera Barat", "Papua"],
+    "benar": 0
+  },
+  "14-21": {
+    "kategori": "Tradisi & Budaya",
+    "soal": "Upacara pemakaman Rambu Solo’ yang megah adalah tradisi dari suku…",
+    "opsi": ["Toraja", "Batak", "Bali", "Minangkabau"],
+    "benar": 0
+  },
+  "14-22": {
+    "kategori": "Tari & Seni Pertunjukan",
+    "soal": "Tari Saman yang ditarikan secara massal berasal dari provinsi…",
+    "opsi": ["Aceh", "Bali", "Jawa Barat", "Jawa Tengah"],
+    "benar": 0
+  },
+  "14-23": {
+    "kategori": "Tari & Seni Pertunjukan",
+    "soal": "Tari Kecak yang tidak menggunakan alat musik berasal dari pulau…",
+    "opsi": ["Bali", "Jawa", "Sumatera", "Sulawesi"],
+    "benar": 0
+  },
+  "14-24": {
+    "kategori": "Tari & Seni Pertunjukan",
+    "soal": "Tari Jaipong adalah tarian pergaulan yang berasal dari…",
+    "opsi": ["Jawa Barat", "Bali", "Aceh", "Jawa Tengah"],
+    "benar": 0
+  },
+  "14-25": {
+    "kategori": "Tari & Seni Pertunjukan",
+    "soal": "Kesenian Reog yang identik dengan topeng dadak merak berasal dari…",
+    "opsi": ["Ponorogo", "Malang", "Banyuwangi", "Solo"],
+    "benar": 0
+  },
+  "14-26": {
+    "kategori": "Tari & Seni Pertunjukan",
+    "soal": "Seni pertunjukan teater tradisional dari Betawi (Jakarta) adalah…",
+    "opsi": ["Lenong", "Wayang Kulit", "Ketoprak", "Reog"],
+    "benar": 0
+  },
+  "14-27": {
+    "kategori": "Tari & Seni Pertunjukan",
+    "soal": "Wayang kulit diakui UNESCO sebagai warisan budaya, umumnya mengangkat kisah dari kitab…",
+    "opsi": ["Mahabharata & Ramayana", "I La Galigo", "Serat Centhini", "Babad Tanah Jawi"],
+    "benar": 0
+  }
 }
