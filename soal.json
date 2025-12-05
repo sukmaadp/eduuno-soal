@@ -187,14 +187,14 @@
   },
   "32": {
     "kategori": "Pakaian Adat",
-    "soal": "Koteka digunakan oleh masyarakat di…",
-    "opsi": ["Papua", "Aceh", "Bali", "Lampung"],
-    "benar": 0
-  },
-  "33": {
-    "kategori": "Pakaian Adat",
     "soal": "Kebaya identik dengan wanita dari wilayah…",
     "opsi": ["Bali", "Jawa/Indonesia", "Sumatera", "NTT"],
+    "benar": 1
+  },
+  "33": {
+    "kategori": "Rumah Adat",
+    "soal": "Rumah Krong Bade, yang memiliki ciri khas tangga di bagian depan dan bubungan atap curam, merupakan rumah adat dari provinsi…",
+    "opsi": ["Sumatera Utara", "Aceh", "Jawa Barat", "Riau"],
     "benar": 1
   },
   "34": {
