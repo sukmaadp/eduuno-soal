@@ -70,7 +70,7 @@ button.pilihan {
   font-size: 16px;
   border-radius: 14px;
   border: none;
-  background: #20B2AA;
+  background: hsl(261, 43%, 75%);
   color: white;
   font-weight: 600;
   cursor: pointer;
@@ -79,7 +79,7 @@ button.pilihan {
 
 button.pilihan:hover {
   transform: scale(1.03);
-  background: #1aa39a;
+  background: hwb(309 22% 32%);
 }
 
 /* =====================
@@ -95,7 +95,7 @@ button.pilihan:hover {
 }
 
 .salah {
-  color: #DC143C;
+  color: #b40024;
   font-weight: bold;
   font-size: 20px;
   display: block;
@@ -126,7 +126,7 @@ button.pilihan:hover {
 }
 
 .badge-salah {
-  background: #FF6347;
+  background: #a30101;
   color: white;
 }
 

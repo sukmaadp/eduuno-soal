@@ -1,17 +1,31 @@
 let soalData = {};
 
+// =====================
+// LOAD DATA SOAL
+// =====================
 fetch("soal.json")
   .then(res => res.json())
   .then(data => {
     soalData = data;
     loadSoal();
+  })
+  .catch(err => {
+    document.getElementById("container").innerHTML =
+      "<h2>Gagal memuat soal!</h2>";
+    console.error(err);
   });
 
+// =====================
+// AMBIL ID DARI URL
+// =====================
 function getID() {
   const url = new URL(window.location.href);
   return url.searchParams.get("id");
 }
 
+// =====================
+// LOAD SOAL
+// =====================
 function loadSoal() {
   const id = getID();
 
@@ -31,43 +45,75 @@ function loadSoal() {
 
   item.opsi.forEach((text, i) => {
     opsiContainer.innerHTML += `
-      <button class="pilihan" data-index="${i}" onclick="cekJawaban(${i})">${text}</button>
+      <button class="pilihan" onclick="cekJawaban(${i})">
+        ${text}
+      </button>
     `;
   });
+
+  // reset hasil & badge
+  document.getElementById("result").innerHTML = "";
+  document.getElementById("badgeArea").innerHTML = "";
 }
 
+// =====================
+// CEK JAWABAN
+// =====================
 function cekJawaban(index) {
   const id = getID();
-  const benar = soalData[id].benar;
+  const item = soalData[id];
+  const indexBenar = item.benar;
+  const jawabanBenarText = item.opsi[indexBenar];
+
   const result = document.getElementById("result");
   const badgeArea = document.getElementById("badgeArea");
+  const allBtn = document.querySelectorAll(".pilihan");
 
   // disable semua tombol
-  const allBtn = document.querySelectorAll(".pilihan");
   allBtn.forEach(btn => btn.disabled = true);
 
-  // jawaban benar atau salah
-  const isCorrect = index === benar;
+  const isCorrect = index === indexBenar;
 
+  // =====================
+  // TAMPILKAN HASIL
+  // =====================
   if (isCorrect) {
-    result.innerHTML = "<span class='benar'>Jawaban Benar!</span>";
+    result.innerHTML = `
+      <span class="benar">
+        Jawaban Benar! 🎉
+      </span>
+    `;
   } else {
-    result.innerHTML = "<span class='salah'>Jawaban Salah!</span>";
+    result.innerHTML = `
+      <span class="salah">
+        Jawaban Salah ❌<br>
+        <strong>Jawaban yang benar adalah: ${jawabanBenarText}</strong>
+      </span>
+    `;
   }
 
-  // warna tombol
-  allBtn[benar].style.background = "green";
-  allBtn[index].style.background = (isCorrect ? "green" : "red");
+  // =====================
+  // WARNA TOMBOL
+  // =====================
+  allBtn[indexBenar].style.background = "#32CD32"; // hijau
 
-  // Tampilkan badge
+  if (!isCorrect) {
+    allBtn[index].style.background = "#FF6347"; // merah
+  }
+
+  // =====================
+  // BADGE
+  // =====================
   badgeArea.innerHTML = `
-    <div class="badge ${isCorrect ? 'badge-bener' : 'badge-salah'}">
+    <div class="badge ${isCorrect ? "badge-bener" : "badge-salah"}">
       ${isCorrect ? "🎉 Kamu Hebat!" : "💪 Semangat Lagi!"}
     </div>
   `;
 
-  // Animasi confetti jika benar
-  if (isCorrect) {
+  // =====================
+  // CONFETTI (JIKA BENAR)
+  // =====================
+  if (isCorrect && typeof confetti === "function") {
     confetti({
       particleCount: 120,
       spread: 80,
