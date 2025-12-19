@@ -1,4 +1,3 @@
-//baru
 let soalData = {};
 
 // =====================
@@ -52,7 +51,6 @@ function loadSoal() {
     `;
   });
 
-  // reset hasil & badge
   document.getElementById("result").innerHTML = "";
   document.getElementById("badgeArea").innerHTML = "";
 }
@@ -63,61 +61,43 @@ function loadSoal() {
 function cekJawaban(index) {
   const id = getID();
   const item = soalData[id];
-  const indexBenar = item.benar;
-  const jawabanBenarText = item.opsi[indexBenar];
+  const benarIndex = item.benar;
+  const jawabanBenar = item.opsi[benarIndex];
 
   const result = document.getElementById("result");
   const badgeArea = document.getElementById("badgeArea");
-  const allBtn = document.querySelectorAll(".pilihan");
+  const tombol = document.querySelectorAll(".pilihan");
 
-  // disable semua tombol
-  allBtn.forEach(btn => btn.disabled = true);
+  tombol.forEach(btn => btn.disabled = true);
 
-  const isCorrect = index === indexBenar;
+  const isCorrect = index === benarIndex;
 
-  // =====================
-  // TAMPILKAN HASIL
-  // =====================
   if (isCorrect) {
-    result.innerHTML = `
-      <span class="benar">
-        Jawaban Benar! 🎉
-      </span>
-    `;
+    result.innerHTML = `<span class="benar">Jawaban Benar! 🎉</span>`;
   } else {
     result.innerHTML = `
       <span class="salah">
         Jawaban Salah ❌<br>
-        <strong>Jawaban yang benar adalah: ${jawabanBenarText}</strong>
+        <strong>Jawaban benar: ${jawabanBenar}</strong>
       </span>
     `;
   }
 
-  // =====================
-  // WARNA TOMBOL
-  // =====================
-  allBtn[indexBenar].style.background = "#32CD32"; // hijau
-
+  tombol[benarIndex].style.background = "#2ecc71";
   if (!isCorrect) {
-    allBtn[index].style.background = "#FF6347"; // merah
+    tombol[index].style.background = "#e74c3c";
   }
 
-  // =====================
-  // BADGE
-  // =====================
   badgeArea.innerHTML = `
     <div class="badge ${isCorrect ? "badge-bener" : "badge-salah"}">
-      ${isCorrect ? "🎉 Kamu Hebat!" : "💪 Semangat Lagi!"}
+      ${isCorrect ? "🎉 Kamu Hebat!" : "💪 Coba Lagi!"}
     </div>
   `;
 
-  // =====================
-  // CONFETTI (JIKA BENAR)
-  // =====================
   if (isCorrect && typeof confetti === "function") {
     confetti({
       particleCount: 120,
-      spread: 80,
+      spread: 90,
       origin: { y: 0.6 }
     });
   }
